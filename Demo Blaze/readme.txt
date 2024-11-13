@@ -1,4 +1,6 @@
 Introducción al Proyecto: Demon Blaze 🔥🛒
+
+la dirrecicón del sitio analizar es : https://demoblaze.com/index.html
 En este repositorio se documentan las pruebas realizadas para la página Demon Blaze, enfocadas en dos historias de usuario clave:
 
 Historia de Usuario 4: Validación del flujo de compra, incluyendo la interacción con el carro de compras. Se verificaron funcionalidades como la adición, modificación y eliminación de productos, así como la confirmación del proceso de pago.
