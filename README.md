@@ -1,0 +1,2 @@
+# QAManual
+Proyectos QA Manual
