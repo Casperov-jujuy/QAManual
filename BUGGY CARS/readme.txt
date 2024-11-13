@@ -1,4 +1,6 @@
 Proyecto de Testing: Buggy Cars 🏎️🛠️
+
+la dirección analizar es : https://buggy.justtestit.org/
 Este repositorio contiene todas las pruebas realizadas para la aplicación Buggy Cars, con un enfoque completo en API Testing utilizando Postman. Aquí encontrarás los casos de prueba diseñados, evidencias de las pruebas ejecutadas y los reportes detallados de bugs encontrados durante el proceso.
 
 📋 Descripción del Proyecto
